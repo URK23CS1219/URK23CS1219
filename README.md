@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="162" src="https://www.bing.com/images/search?view=detailV2&ccid=W1%2brdClA&id=4BC644AB92A9434D33BBF87573802108A2F03DA2&thid=OIP.W1-rdClA-Nhdez7aheWSRwHaHa&mediaurl=https%3a%2f%2fc.tenor.com%2fo0rzeNR4qWQAAAAC%2fcube.gif&exph=498&expw=498&q=cube+gif&simid=608042755796964977&FORM=IRPRST&ck=A93A43B44D1EAB73B0BF85A298CE5441&selectedIndex=2&itb=0"  />
+<img align="right" height="162" src="https://github.com/URK23CS1219/URK23CS1219/blob/main/6212485181ca055f760855d98d3ee4bc.gif" />
 
 ###
 
